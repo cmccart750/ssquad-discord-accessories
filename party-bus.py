@@ -103,4 +103,4 @@ class Bot(discord.Client):
 
 
 bot = Bot()
-bot.run("Mzg0MjQ3NDE1NzgxMTk1Nzc2.DPwF-g.y80kLdPZZZVIhl00U9a_2sKOnGA")
+bot.run(token)
