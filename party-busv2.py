@@ -365,9 +365,6 @@ class Bot(discord.Client):
                     return i
             return None
 
-        if ("good bot") in message.content.lower():
-            dilEmote = discord.utils.get(self.get_all_emojis(), name = "dilmouth")
-            await self.send_message(message.channel, str(dilEmote))
 
         if message.content.startswith("*create"):
             msg = message.content[7:]
