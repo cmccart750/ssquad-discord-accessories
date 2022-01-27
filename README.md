@@ -6,17 +6,27 @@ partyBus v2 overview - documentation in progress!
 A Discord bot built using discord.py 0.16.12, - add libraries
 
 party overview
+
 -creation
+
 -deletion
 
+
 party fields
+
 -normal
+
 -emojiset
+
 -categorization
 
-timestamping
+-timestamping
 
 future plans
+
 -multi-server privacy and stability
+
 -customization for experienced end users
+
 -code commenting
+
